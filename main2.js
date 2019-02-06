@@ -1,3 +1,2 @@
-probando cambio git web
-cambio visual studio
+const variable = 'coso';
 
